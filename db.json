@@ -2,7 +2,6 @@
   "test": [
     {
       "id": 1,
-      "courseId": 1,
       "moduleName":"Module1",
       "type":"Video",
       "questions":[
