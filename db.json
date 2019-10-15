@@ -3,11 +3,15 @@
     {
       "id": 1,
       "courseId": 1,
+      "moduleName":"Module1",
+      "type":"Video",
       "questions":[
         {
           "number":1,
+          "storyline":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt dui ut ornare lectus sit amet est placerat. Cum sociis natoque penatibus et magnis dis parturient montes. Eros in cursus turpis massa tincidunt dui ut ornare. Nec nam aliquam sem et tortor. Fames ac turpis egestas sed tempus urna. Interdum velit euismod in pellentesque massa placerat. Suspendisse ultrices gravida dictum fusce ut placerat. Commodo viverra maecenas accumsan lacus vel facilisis. Duis tristique sollicitudin nibh sit amet commodo. Quisque egestas diam in arcu cursus euismod. A erat nam at lectus urna duis convallis. Sed velit dignissim sodales ut eu sem integer vitae justo. Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Dolor sit amet consectetur adipiscing.",
           "question":"Who are you?",
-          "answer":"First",
+          "answer":"0",
+          "type":"Multiple Choice",
           "choices":[
             {
               "0":"First",
