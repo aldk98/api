@@ -2,8 +2,6 @@
   "test": [
     {
       "id": 1,
-      "moduleName":"Module1",
-      "type":"Video",
       "questions":[
         {
           "number":1,
