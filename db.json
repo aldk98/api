@@ -2,52 +2,77 @@
   "test": [
     {
       "id": 1,
-      "questions":[
-        {
-          "number":1,
-          "storyline":{
-            "id":1,
-            "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt dui ut ornare lectus sit amet est placerat. Cum sociis natoque penatibus et magnis dis parturient montes. Eros in cursus turpis massa tincidunt dui ut ornare. Nec nam aliquam sem et tortor. Fames ac turpis egestas sed tempus urna. Interdum velit euismod in pellentesque massa placerat. Suspendisse ultrices gravida dictum fusce ut placerat. Commodo viverra maecenas accumsan lacus vel facilisis. Duis tristique sollicitudin nibh sit amet commodo. Quisque egestas diam in arcu cursus euismod. A erat nam at lectus urna duis convallis. Sed velit dignissim sodales ut eu sem integer vitae justo. Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Dolor sit amet consectetur adipiscing.",
-            "imageUrl":"https://images.unsplash.com/photo-1508704019882-f9cf40e475b4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8c6e5e3aba713b17aa1fe71ab4f0ae5b&auto=format&fit=crop&w=1352&q=80"
+      "questionTypeId": 1,
+      "taskImageUrl": "http://94.237.76.37:900/jpeg/5cc81f3e-aee2-404d-b8d1-ff184e398e4b.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191114T094844Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=dfa7b73d4818b3967041abe831213e1c2a1a364d0b4d758b1b0d5763a9457ea3",
+      "layoutType": 1,
+      "storyLineDescription": "EAGAR",
+      "content": {
+        "question": "EAGAR",
+        "answer": false,
+        "point": 10
+      }
+    },
+    {
+      "id": 2,
+      "questionTypeId": 2,
+      "taskImageUrl": "http://94.237.76.37:900/jpeg/4be3d47a-c4e0-423d-a270-9f8744a9b760.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191114T102327Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=93a345b968cf0b03b45142cd0cf52712bf68011be99bedc9517704fc67044322",
+      "layoutType": 1,
+      "storyLineDescription": "Matching",
+      "content": {
+        "question": "Matching",
+        "answer": "1-2",
+        "point": 10,
+        "choice": [
+          {
+            "imageUrl": "http://94.237.76.37:900/jpeg/1a6f3427-6e1f-49f5-b78c-f904566879a9.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191114T102327Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=9d112dbfdb16e6d098c40e92ce35c8faa1be53d85628db04d34ccad006f7254a",
+            "taskMatchingChoiceCode": "01A",
+            "text": null
           },
-          "question":"Who are you?",
-          "trueAnswerIndex":0,
-          "type":1,
-          "choices":[
-            {
-              "0":"First",
-              "1":"Second",
-              "2":"Third",
-              "3":"Fourth"
-            }
-          ],
-          "imageUrl":"https://images.unsplash.com/photo-1508704019882-f9cf40e475b4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8c6e5e3aba713b17aa1fe71ab4f0ae5b&auto=format&fit=crop&w=1352&q=80"
-        }
-      ]
+          {
+            "imageUrl": "http://94.237.76.37:900/jpeg/6d165581-665f-40f1-8ee2-0c0df6b0290a.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191114T102327Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=444cde22cb14c3ff02714c8e9807e131d84ccd0d3a0b23ca2186f820d964ea77",
+            "taskMatchingChoiceCode": "01B",
+            "text": null
+          },
+          {
+            "imageUrl": null,
+            "taskMatchingChoiceCode": "02A",
+            "text": "gt"
+          },
+          {
+            "imageUrl": null,
+            "taskMatchingChoiceCode": "02B",
+            "text": "b,w"
+          }
+        ]
+      }
     },
     {
       "id": 3,
-      "questions":[
-        {
-          "number":1,
-          "storyline":{
-            "id":1,
-            "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt dui ut ornare lectus sit amet est placerat. Cum sociis natoque penatibus et magnis dis parturient montes. Eros in cursus turpis massa tincidunt dui ut ornare. Nec nam aliquam sem et tortor. Fames ac turpis egestas sed tempus urna. Interdum velit euismod in pellentesque massa placerat. Suspendisse ultrices gravida dictum fusce ut placerat. Commodo viverra maecenas accumsan lacus vel facilisis. Duis tristique sollicitudin nibh sit amet commodo. Quisque egestas diam in arcu cursus euismod. A erat nam at lectus urna duis convallis. Sed velit dignissim sodales ut eu sem integer vitae justo. Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Dolor sit amet consectetur adipiscing.",
-            "imageUrl":"https://images.unsplash.com/photo-1508704019882-f9cf40e475b4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8c6e5e3aba713b17aa1fe71ab4f0ae5b&auto=format&fit=crop&w=1352&q=80"
+      "questionTypeId": 3,
+      "taskImageUrl": null,
+      "layoutType": 0,
+      "storyLineDescription": null,
+      "content": {
+        "question": "komplang",
+        "answer": "1-2-3",
+        "choice": [
+          {
+            "number": 1,
+            "text": "c",
+            "point": 30
           },
-          "question":"Who are you?",
-          "trueAnswerIndex":0,
-          "type":1,
-          "choices":[
-            {
-              "0":"First",
-              "1":"Second",
-              "2":"Third",
-              "3":"Fourth"
-            }
-          ]
-        }
-      ]
+          {
+            "number": 2,
+            "text": "d",
+            "point": 40
+          },
+          }
+          "number": 3,
+          "text": "e",
+          "point": 250
+          }
+        ]
+      }
     }
   ]
 }
