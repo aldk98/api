@@ -34,12 +34,12 @@
             "left": [
               {
                 "imageUrl": "http://94.237.76.37:900/jpeg/1a6f3427-6e1f-49f5-b78c-f904566879a9.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191114T102327Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=9d112dbfdb16e6d098c40e92ce35c8faa1be53d85628db04d34ccad006f7254a",
-                "number": "1",
+                "number": 1,
                 "text": null
               },
               {
                 "imageUrl": "http://94.237.76.37:900/jpeg/6d165581-665f-40f1-8ee2-0c0df6b0290a.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191114T102327Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=444cde22cb14c3ff02714c8e9807e131d84ccd0d3a0b23ca2186f820d964ea77",
-                "number": "2",
+                "number": 2,
                 "text": null
               }
             ]
@@ -48,12 +48,12 @@
             "right": [
               {
                 "imageUrl": null,
-                "number": "1",
+                "number": 1,
                 "text": "gt"
               },
               {
                 "imageUrl": null,
-                "number": "2",
+                "number": 2,
                 "text": "b,w"
               }
             ]
