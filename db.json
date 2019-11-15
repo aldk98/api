@@ -87,7 +87,6 @@
     },
     {
       "id": 5,
-      "questionTypeId": 5,
       "taskImageUrl": "http://94.237.76.37:900/jpeg/926cae92-8a8f-416e-a8db-1fc534d9c8f0.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191115T035319Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=2727f8f2953cc87d54b7aa4eed32d3fd38817c8b812c5fdee6e0644f3ae33af5",
       "layoutType": 1,
       "storyLineDescription": "hotspot",
@@ -156,6 +155,35 @@
             "text": "4",
             "isAnswer": false,
             "point": 250
+          }
+        ]
+      }
+    },
+    {
+      "taskId": 9,
+      "taskImageUrl": "http://94.237.76.37:900/webp/f4018c4f-3fa6-45ef-ba56-6b01dc9f68cf.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191115T115020Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=e21a6261395bf46e48a1dafb88711c06a4f779e9f591de0ba26d04481ff16689",
+      "layoutType": 1,
+      "storyLineDescription": "Rating",
+      "content": {
+        "questionTypeId": 9,
+        "question": "Rating",
+        "point0To20": 10,
+        "point21To40": 30,
+        "point41To60": 40,
+        "point61To80": 250,
+        "point81To100": 40,
+        "choice": [
+          {
+            "number": 1,
+            "text": "1"
+          },
+          {
+            "number": 2,
+            "text": "2"
+          },
+          {
+            "number": 3,
+            "text": "3"
           }
         ]
       }
