@@ -160,7 +160,7 @@
       }
     },
     {
-      "taskId": 9,
+      "id": 9,
       "taskImageUrl": "http://94.237.76.37:900/webp/f4018c4f-3fa6-45ef-ba56-6b01dc9f68cf.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191115T115020Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=e21a6261395bf46e48a1dafb88711c06a4f779e9f591de0ba26d04481ff16689",
       "layoutType": 1,
       "storyLineDescription": "Rating",
