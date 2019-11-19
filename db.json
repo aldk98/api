@@ -230,8 +230,8 @@
     {
       "id": 12,
       "taskImageUrl": null,
-      "layoutType": 1,
-      "storyLineDescription": "",
+      "layoutType": 2,
+      "storyLineDescription": "Matrix",
       "content": {
         "questionTypeId": 12,
         "question": "Pilihlah",
