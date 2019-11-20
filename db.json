@@ -269,7 +269,7 @@
       }
     }
   ],
-  "modules": [
+  "module": [
     {
       "id": 1,
       "taskIds": [
