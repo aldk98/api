@@ -86,6 +86,28 @@
       }
     },
     {
+      "id": 4,
+      "taskImageUrl": "http://94.237.76.37:900/jpeg/e820c1bb-4a86-4f2b-8070-b05620f7a95f.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191121T023716Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=5e963be960afac69c559ad21bfc859e42c97c222f7e3bb0cf55d10b6a9a671e4",
+      "layoutType": 1,
+      "storyLineDescription": "123",
+      "content": {
+        "questionTypeId": 4,
+        "question": "123",
+        "answer": 0,
+        "point": 10,
+        "choice": [
+          {
+            "imageUrl": "http://94.237.76.37:900/jpeg/3228b4f4-8bd4-45fa-bb2d-b8fc6f42b754.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191121T023716Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=611b4cf5c37b52e7b5f1e0cd1d5d539202af8fe088a6aac4a9dff2cb24ecc83c",
+            "number": 1
+          },
+          {
+            "imageUrl": "http://94.237.76.37:900/jpeg/5afbedd3-8ecf-4ac6-8396-8c8456c61610.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191121T023716Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=f60904fa1feb7b864c5e5d174164caaec7bf352071a4fd875c2a27390c23ad01",
+            "number": 2
+          }
+        ]
+      }
+    },
+    {
       "id": 5,
       "taskImageUrl": "http://94.237.76.37:900/jpeg/926cae92-8a8f-416e-a8db-1fc534d9c8f0.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191115T035319Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=2727f8f2953cc87d54b7aa4eed32d3fd38817c8b812c5fdee6e0644f3ae33af5",
       "layoutType": 1,
@@ -269,7 +291,7 @@
       }
     }
   ],
-  "module": [
+  "modules": [
     {
       "id": 1,
       "taskIds": [
@@ -280,6 +302,7 @@
         3,
         5,
         7,
+        4,
         8,
         2,
         6
