@@ -2,7 +2,7 @@
   "test": [
     {
       "id": 1,
-      "taskImageUrl": "http://94.237.76.37:900/jpeg/5cc81f3e-aee2-404d-b8d1-ff184e398e4b.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191114T094844Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=dfa7b73d4818b3967041abe831213e1c2a1a364d0b4d758b1b0d5763a9457ea3",
+      "taskImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
       "layoutType": 1,
       "storyLineDescription": "EAGAR",
       "content": {
@@ -14,7 +14,7 @@
     },
     {
       "id": 2,
-      "taskImageUrl": "http://94.237.76.37:900/jpeg/4be3d47a-c4e0-423d-a270-9f8744a9b760.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191114T102327Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=93a345b968cf0b03b45142cd0cf52712bf68011be99bedc9517704fc67044322",
+      "taskImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
       "layoutType": 1,
       "storyLineDescription": "Matching",
       "content": {
@@ -32,12 +32,12 @@
         "choice": {
           "left": [
             {
-              "imageUrl": "http://94.237.76.37:900/jpeg/1a6f3427-6e1f-49f5-b78c-f904566879a9.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191114T102327Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=9d112dbfdb16e6d098c40e92ce35c8faa1be53d85628db04d34ccad006f7254a",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
               "number": 1,
               "text": null
             },
             {
-              "imageUrl": "http://94.237.76.37:900/jpeg/6d165581-665f-40f1-8ee2-0c0df6b0290a.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191114T102327Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=444cde22cb14c3ff02714c8e9807e131d84ccd0d3a0b23ca2186f820d964ea77",
+              "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
               "number": 2,
               "text": null
             }
@@ -87,7 +87,7 @@
     },
     {
       "id": 4,
-      "taskImageUrl": "http://94.237.76.37:900/jpeg/e820c1bb-4a86-4f2b-8070-b05620f7a95f.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191121T023716Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=5e963be960afac69c559ad21bfc859e42c97c222f7e3bb0cf55d10b6a9a671e4",
+      "taskImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
       "layoutType": 1,
       "storyLineDescription": "123",
       "content": {
@@ -97,11 +97,11 @@
         "point": 10,
         "choice": [
           {
-            "imageUrl": "http://94.237.76.37:900/jpeg/3228b4f4-8bd4-45fa-bb2d-b8fc6f42b754.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191121T023716Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=611b4cf5c37b52e7b5f1e0cd1d5d539202af8fe088a6aac4a9dff2cb24ecc83c",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
             "number": 1
           },
           {
-            "imageUrl": "http://94.237.76.37:900/jpeg/5afbedd3-8ecf-4ac6-8396-8c8456c61610.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191121T023716Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=f60904fa1feb7b864c5e5d174164caaec7bf352071a4fd875c2a27390c23ad01",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
             "number": 2
           }
         ]
@@ -109,13 +109,13 @@
     },
     {
       "id": 5,
-      "taskImageUrl": "http://94.237.76.37:900/jpeg/926cae92-8a8f-416e-a8db-1fc534d9c8f0.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191115T035319Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=2727f8f2953cc87d54b7aa4eed32d3fd38817c8b812c5fdee6e0644f3ae33af5",
+      "taskImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
       "layoutType": 1,
       "storyLineDescription": "hotspot",
       "content": {
         "questionTypeId": 5,
         "question": "1",
-        "imageUrl": "http://94.237.76.37:900/jpeg/aef31b2b-5256-458a-9532-00c53a331bb8.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191115T035319Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=6972cd7b353f219e815376dc0f3827c9051ef9ae28bb166d130ba879d58461c3",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
         "choice": [
           {
             "number": 1,
@@ -127,7 +127,7 @@
     },
     {
       "id": 6,
-      "taskImageUrl": "http://94.237.76.37:900/jpeg/17c5c7ca-80df-41bc-a473-d12eaed95f88.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191115T035442Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=d4b03fad693fe90171998d554971add35ee290b98de787c20a607381082a1318",
+      "taskImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
       "layoutType": 1,
       "storyLineDescription": "ShortAnswer",
       "content": {
@@ -147,7 +147,7 @@
     },
     {
       "id": 8,
-      "taskImageUrl": "http://94.237.76.37:900/jpeg/5cdc9bae-df05-43c4-a556-9e2366ecf270.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191115T035651Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=d32346cceaa3e002675f431d87a3f94aef1f02d6063889920062a2f4a5f1553d",
+      "taskImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
       "layoutType": 1,
       "storyLineDescription": "1",
       "content": {
@@ -183,7 +183,7 @@
     },
     {
       "id": 9,
-      "taskImageUrl": "http://94.237.76.37:900/webp/f4018c4f-3fa6-45ef-ba56-6b01dc9f68cf.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191115T115020Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=e21a6261395bf46e48a1dafb88711c06a4f779e9f591de0ba26d04481ff16689",
+      "taskImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
       "layoutType": 1,
       "storyLineDescription": "Rating",
       "content": {
@@ -212,7 +212,7 @@
     },
     {
       "id": 10,
-      "taskImageUrl": "http://94.237.76.37:900/jpeg/9eae0884-512d-4278-b7ed-d6df1c177ad5.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=Z75YH9CG2U9CLE3IVUX3%2F20191114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191114T102633Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&&X-Amz-Signature=9c50ef1a60c8a1ab7ffb515b34284e5eabc1a79877edafca82fa21a1b1a4a980",
+      "taskImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
       "layoutType": 1,
       "storyLineDescription": "Storyline description",
       "content": {
