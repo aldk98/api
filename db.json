@@ -262,30 +262,33 @@
         "pointColumn3": 10,
         "pointColumn4": 40,
         "pointColumn5": 10,
-        "choice": [
+        "headers": [
+          "tidak",
+          "kurang",
+          "netral",
+          "cukup",
+          "sangat"
+        ],
+        "questions": [
           {
-            "text": "tidak"
+            "number": 1,
+            "text": "Pertanyaan 1"
           },
           {
-            "text": "kurang"
+            "number": 2,
+            "text": "Pertanyaan 2"
           },
           {
-            "text": "netral"
+            "number": 3,
+            "text": "Pertanyaan 3"
           },
           {
-            "text": "cukup"
+            "number": 4,
+            "text": "Pertanyaan 4"
           },
           {
-            "text": "sangat"
-          },
-          {
-            "text": "pernyataan 1"
-          },
-          {
-            "text": "pernyataan 2"
-          },
-          {
-            "text": "pernyataan 3"
+            "number": 5,
+            "text": "Pertanyaan 5"
           }
         ]
       }
