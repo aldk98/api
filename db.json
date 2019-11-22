@@ -5,29 +5,22 @@
       "taskImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
       "layoutType": 1,
       "storyLineDescription": "EAGAR",
+      "question": "EAGAR",
       "content": {
         "questionTypeId": 1,
-        "question": "EAGAR",
         "answer": false,
         "point": 10
       }
     },
     {
       "id": 2,
+      "question": "Matching",
       "taskImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
       "layoutType": 1,
       "storyLineDescription": "Matching",
       "content": {
         "questionTypeId": 2,
-        "question": "Matching",
-        "answer": [
-          {
-            "1": "2"
-          },
-          {
-            "2": "1"
-          }
-        ],
+        "answer": "1-2",
         "point": 10,
         "choice": {
           "left": [
@@ -61,9 +54,9 @@
       "id": 3,
       "taskImageUrl": null,
       "layoutType": 0,
+      "questionTypeId": 3,
       "storyLineDescription": null,
       "content": {
-        "questionTypeId": 3,
         "question": "komplang",
         "answer": "1-2-3",
         "choice": [
@@ -89,10 +82,10 @@
       "id": 4,
       "taskImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
       "layoutType": 1,
+      "question": "123",
       "storyLineDescription": "123",
       "content": {
         "questionTypeId": 4,
-        "question": "123",
         "answer": 0,
         "point": 10,
         "choice": [
@@ -112,9 +105,9 @@
       "taskImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
       "layoutType": 1,
       "storyLineDescription": "hotspot",
+      "question": "1",
       "content": {
         "questionTypeId": 5,
-        "question": "1",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
         "choice": [
           {
@@ -130,9 +123,9 @@
       "taskImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
       "layoutType": 1,
       "storyLineDescription": "ShortAnswer",
+      "question": "Short Answer",
       "content": {
-        "questionTypeId": 6,
-        "question": "Short Answer"
+        "questionTypeId": 6
       }
     },
     {
@@ -140,9 +133,9 @@
       "taskImageUrl": null,
       "layoutType": 1,
       "storyLineDescription": null,
+      "question": "Essay",
       "content": {
-        "questionTypeId": 7,
-        "question": "Essay"
+        "questionTypeId": 7
       }
     },
     {
@@ -150,9 +143,9 @@
       "taskImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
       "layoutType": 1,
       "storyLineDescription": "1",
+      "question": "Checklist",
       "content": {
         "questionTypeId": 8,
-        "question": "Checklist",
         "choice": [
           {
             "number": 1,
@@ -186,9 +179,9 @@
       "taskImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
       "layoutType": 1,
       "storyLineDescription": "Rating",
+      "question": "Rating",
       "content": {
         "questionTypeId": 9,
-        "question": "Rating",
         "point0To20": 10,
         "point21To40": 30,
         "point41To60": 40,
@@ -215,10 +208,10 @@
       "taskImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzhPYnQj7OR2qFtqWUVHCQ5sUeeVpr2YVfWmOs4afLaC5mSM0wQ&s",
       "layoutType": 1,
       "storyLineDescription": "Storyline description",
+      "question": "1",
       "content": {
         "questionTypeId": 10,
         "answerId": 131,
-        "question": "1",
         "point": 10,
         "choice": [
           {
@@ -254,9 +247,9 @@
       "taskImageUrl": null,
       "layoutType": 2,
       "storyLineDescription": "Matrix",
+      "question": "Pilihlah",
       "content": {
         "questionTypeId": 12,
-        "question": "Pilihlah",
         "pointColumn1": 10,
         "pointColumn2": 10,
         "pointColumn3": 10,
